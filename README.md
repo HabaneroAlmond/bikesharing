@@ -10,6 +10,7 @@ In this project we wanted to analyze the citibike data from August 2019 in NYC t
 # Results
 For this project we created a plethora of different vessels to display our data to the investors
 ![user breakdown](https://user-images.githubusercontent.com/82848585/129114101-45cc16ed-2da1-403a-b1a7-f88b7b5a72b7.png)
+
 For our user breakdown we were able to deduce that most of our users are subscribers, which means they are a reliable source of income because they are using the bike sharing program as an integral part of their life for transportation. Interestingly, most of the users (almost 75%!) are male, this could be a key factor to take into consideration if an advertising campaign is ever taken on to promote the potential program. 
 ![Ride Starting Locations](https://user-images.githubusercontent.com/82848585/129114236-17725c32-7252-4b4f-96d1-32a063913fb7.png)
 ![Ride Ending Locations](https://user-images.githubusercontent.com/82848585/129114408-c741ff9e-29d4-4904-aa3f-f64394421c40.png)
