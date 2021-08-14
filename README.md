@@ -14,14 +14,19 @@ For this project we created a plethora of different vessels to display our data 
 For our user breakdown we were able to deduce that most of our users are subscribers, which means they are a reliable source of income because they are using the bike sharing program as an integral part of their life for transportation. Interestingly, most of the users (almost 75%!) are male, this could be a key factor to take into consideration if an advertising campaign is ever taken on to promote the potential program. 
 ![Ride Starting Locations](https://user-images.githubusercontent.com/82848585/129114236-17725c32-7252-4b4f-96d1-32a063913fb7.png)
 ![Ride Ending Locations](https://user-images.githubusercontent.com/82848585/129114408-c741ff9e-29d4-4904-aa3f-f64394421c40.png)
+
 For locations where our riders start and end we created two separate maps. The size of the circles and the darkness of the red/green indicate the concentration of pickups/dropoffs.For both maps the bulk of pickups/dropoffs are originating in the commercial center of the city, and then are dispersed smaller as it gets farther away from this center. From this we can deduce that efforts for a Des Moines bike sharing program should be centered around the most dense parts of the city to attract potential subscribers. 
 ![usagehours](https://user-images.githubusercontent.com/82848585/129449077-f2e169cc-bbfd-43ef-b687-914768dd8edf.png)
+
 This horizontal bar graph shows us the number of bike rides for each hour of the day during August. Peak usage is expectedly during the morning hours when people are going to work and during the afternoon when workers are going home. One of the questions we had was when would be a good time to make repairs and that is during the early morning hours of 2-5 AM.
 ![averagetripbyage](https://user-images.githubusercontent.com/82848585/129449136-30ffe617-520a-483a-a908-99d6e930915e.png)
+
 This vertical bar chart shows us some interesting statistics about our age demographics, in that bike sharing programs attract all ages. Also, we can see that on average the older users are taking shorter bike rides than the younger users.  
 ![numberoftripsperbike](https://user-images.githubusercontent.com/82848585/129449198-94880ab7-62fe-49ca-a50b-48ee4612a425.png)
+
 This heatmap we created shows us what percentage of the bikes in the NY program are getting heavy usage. In green we see the bikes which get the lowest level of usage, close to 50% of the fleet, whereas the other 50% comprised on the yellow and red shades will require more frequent maintenance. 
 ![ridelength](https://user-images.githubusercontent.com/82848585/129449222-7148bae7-a819-4ba4-a80d-968ae801ade6.png)
+
 This graph shows us the trip durations logged for the bikesharing program. The most important piece of information we can see is that the majority of our riders are only using the bikes for under an hour, in fact our highest usage markers indicate that most of the users aren't even riding for longer than 30 minutes. 
 ![ridelengthgender](https://user-images.githubusercontent.com/82848585/129449240-c0f4f6dd-0a26-45ee-8e79-c61679b0429e.png)
 This graph is the same as above except with the lines split up by gender. We can see that the males are the overwhelming user group. The times taken on the trip do not differ by age in any significant way. 
