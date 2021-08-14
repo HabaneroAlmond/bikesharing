@@ -1,7 +1,7 @@
 # bikesharing
 
 # Overview of the analysis
-In This project we wanted to analyze the citibike data from August 2019 in NYC to try and decide if a similar bike-sharing program could be a good fit for Des Moines, Iowa. Des Moines is obviously very different than the massive city of New York, but we can still present information from this dataset that would be relevant to any city.
+In this project we wanted to analyze the citibike data from August 2019 in NYC to try and decide if a similar bike-sharing program could be a good fit for Des Moines, Iowa. Des Moines is obviously very different than the massive city of New York, but we can still present information from this dataset that would be relevant to any city.
  - What types of people use bike-share programs
  - What parts of the urban sprawl see the highest concentration of bike-share usage
  - What times of the day are bikes used the most or least
